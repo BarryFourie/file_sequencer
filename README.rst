@@ -21,12 +21,6 @@ Features
 Installation
 ============
 
-To install `file_sequencer`, simply use pip:
-
-.. code-block:: sh
-
-    pip install file_sequencer
-
 To install the latest version from TestPyPI, use:
 
 .. code-block:: sh
